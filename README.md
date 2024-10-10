@@ -13,11 +13,14 @@ A simple API for managing a list of games using ASP.NET Core.
 ## How to Run
 
 1. Clone the repository.
-2. Restore dependencies:
+2. Navigate to project diretory
    ```bash
-   dotnet restore
+   cd GameStore.Api
+3. Restore dependencies:
+   ```bash
+    dotnet restore
 
-3. ```bash
+4. ```bash
     dotnet run
 
 ## Data Transfer Objects(DTOs)
